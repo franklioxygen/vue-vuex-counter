@@ -1,4 +1,5 @@
-# vue-vuex
+# vue-vuex-counter
+this is a practice
 
 ## Project setup
 ```
